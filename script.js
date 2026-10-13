@@ -180,12 +180,12 @@ const products = [
 ];
 
 const productImagePaths = {
-    1: 'imagenes de productos/Placa polimarmol.png',
-    2: 'imagenes de productos/Placa polipropileno.png',
-    3: 'imagenes de productos/Placa Tetrabrick.png',
-    4: 'imagenes de productos/Tabla.png',
-    6: 'imagenes de productos/Alfajia.png',
-    8: 'imagenes de productos/Poste octogonal.png',
+    1: 'imagenes de productos/placa polimarmol.png',
+    2: 'imagenes de productos/placa polipropileno.png',
+    3: 'imagenes de productos/placa tetrabrick.png',
+    4: 'imagenes de productos/tabla.png',
+    6: 'imagenes de productos/alfajia.png',
+    8: 'imagenes de productos/poste octogonal.png',
     13: 'imagenes de productos/Casa para perros.jpg'
 };
 
